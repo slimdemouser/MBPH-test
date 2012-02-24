@@ -20,4 +20,5 @@ function h = imagesu(image_matrix, image_name)
 	if not(exist('image_name','var'))
 		title(image_name)
 	end
+	daspect([1 1 1])
 end
