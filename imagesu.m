@@ -21,4 +21,5 @@ function h = imagesu(image_matrix, image_name)
 		title(image_name)
 	end
 	daspect([1 1 1])
+	daspect(['manual'])
 end
