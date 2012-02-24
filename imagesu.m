@@ -8,6 +8,7 @@ function h = imagesu(image_matrix, image_name)
 %
 %	Tim Lin 2012 timtylin@gmail.com
 %	all rights reserved blah
+%   C2012
 	
 	if not(exist('image_name','var'))
 	    h = figure();
