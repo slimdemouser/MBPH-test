@@ -7,6 +7,7 @@ function h = imagesu(image_matrix, image_name)
 %	imageName		a string that will show up in the figure title and window title
 %
 %	Tim Lin 2012 timtylin@gmail.com
+%	all rights reserved blah
 	
 	if not(exist('image_name','var'))
 	    h = figure();
