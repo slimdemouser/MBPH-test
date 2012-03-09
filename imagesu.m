@@ -11,6 +11,7 @@ function h = imagesu(image_matrix, image_name)
 %   C2012
 %
 %	warning: beta
+%   REALLY
 
 	if not(exist('image_name','var'))
 	    h = figure();
